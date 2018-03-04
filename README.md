@@ -2,5 +2,5 @@
 
 ## My python learning journy
 
-This is a doc for you!
-Nothing to introduce
+This is a doc for you!  
+There is nothing to introduce.
