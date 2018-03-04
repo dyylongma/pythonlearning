@@ -1,5 +1,4 @@
-# pythonlearning
-My python learning journy
-this is a doc for you!
-nothing to introduce
-dfdfdfsdfsd
+# python学习笔记
+##My python learning journy
+This is a doc for you!
+Nothing to introduce
